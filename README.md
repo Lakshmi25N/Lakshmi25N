@@ -10,7 +10,7 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 </p>
 
 <p align="center">
-<img src="(https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" width="450">
+  <img src="assets/girl-coder.gif" width="450" alt="Girl Coding"/>
 </p>
 
 
