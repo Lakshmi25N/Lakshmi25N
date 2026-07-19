@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm N. Lakshmi</h1>
 
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Data+Science+Enthusiast;Python+Developer;Future+Software+Engineer;Open+Source+Learner+🚀"/>
+Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiring Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450" alt="Girl Coding"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Python+Developer;Future+Software+Engineer;Open+Source+Learner+🚀" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="450">
 </p>
 
 
