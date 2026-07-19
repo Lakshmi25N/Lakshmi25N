@@ -1,15 +1,17 @@
-<h1 align="center">
-  Hi 👋, I'm N. Lakshmi
-</h1>
+<h1 align="center">Hi 👋, I'm N. Lakshmi</h1>
+
+<h3 align="center">
+Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiring Software Engineer
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Data+Science+Learner;Aspiring+Software+Engineer;Open+Source+Explorer+🚀" alt="Typing SVG" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Python+Developer;Future+Software+Engineer;Open+Source+Learner+🚀" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshmi25N&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 </p>
 
 ---
@@ -20,45 +22,67 @@
 
 🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
 
-💻 Currently mastering Data Structures & Algorithms
+💻 Learning Data Structures & Algorithms
 
-🌱 Learning Deep Learning, Generative AI and System Design
+📚 Exploring Deep Learning & Generative AI
 
-🚀 Building real-world AI applications
+🌱 Always learning new technologies
 
-🎯 Goal: Software Engineer in a Product-Based Company
+🚀 Building projects to solve real-world problems
+
+🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 ---
 
-## 🛠️ Tech Stack
+## 🌱 Currently Learning
 
-### Languages
+- 🧠 Data Structures & Algorithms
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- 🤖 Machine Learning
+
+- 🐍 Python
+
+- 📊 Data Analytics
+
+- 🔥 Deep Learning
+
+- ✨ Generative AI
+
+- 🌐 Git & GitHub
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql"/>
+
+</p>
 
 ### AI / Data Science
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🩺 AI-based Pneumonia Detection
+🩺 AI Pneumonia Detection
 
 📜 Fake Certificate Detection using AI
 
@@ -66,51 +90,76 @@
 
 🌐 Personal Portfolio Website
 
+🐍 Python Automation Projects
+
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshmi25N&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmi25N&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Lakshmi25N&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshmi25N&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
----
-
-## 📊 Contribution Graph
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmi25N&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 GitHub Trophies
 
-- ✅ Master DSA
-- ✅ Solve 500+ LeetCode Problems
-- ✅ Build AI/ML Projects
-- ✅ Publish Research Papers
-- ✅ Contribute to Open Source
-- ✅ Crack Product-Based Placements
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lakshmi25N&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ---
 
-## 🤝 Connect With Me
+# 🧑‍💻 Coding Profiles
 
-<p align="left">
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -118,10 +167,41 @@
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions later to make this animation work.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Lakshmi25N/Lakshmi25N/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
 
 ---
 
 <h3 align="center">
-✨ "Code • Learn • Build • Repeat" ✨
+
+⭐ Thanks for visiting my profile ⭐
+
 </h3>
+
+<h4 align="center">
+
+💙 Code • Learn • Build • Repeat 💙
+
+</h4>
