@@ -10,7 +10,7 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+<img src="(https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" width="450">
 </p>
 
 
