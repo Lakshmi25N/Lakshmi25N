@@ -1,100 +1,138 @@
 <h1 align="center">Hi 👋, I'm N. Lakshmi</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiring Software Engineer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Artificial+Intelligence+%26+Machine+Learning;Data+Science+Enthusiast;Python+Developer;Future+Software+Engineer;Open+Source+Learner+🚀"/>
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!;Computer+Science+Engineering+Student;AI+%7C+Machine+Learning+Enthusiast;Python+Developer;Future+Software+Engineer;Open+Source+Learner+🚀" />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
 </p>
-
----
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
+<img src="https://komarev.com/ghpvc/?username=Lakshmi25N&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Lakshmi25N?label=Followers&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Lakshmi25N?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-🎓 Final Year Computer Science Engineering Student
+🎓 Computer Science Engineering Student (2023–2027)
 
-🤖 Passionate about Artificial Intelligence, Machine Learning & Data Science
+🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
 
-💻 Learning Data Structures & Algorithms
+💻 Currently mastering Data Structures & Algorithms
 
-📚 Exploring Deep Learning & Generative AI
+📊 Interested in Data Science & Deep Learning
 
-🌱 Always learning new technologies
+🌱 Learning something new every day
 
-🚀 Building projects to solve real-world problems
+🚀 Building projects that solve real-world problems
 
 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 ---
 
-## 🌱 Currently Learning
+# 🚀 Currently Learning
 
-- 🧠 Data Structures & Algorithms
+🧠 Data Structures & Algorithms
 
-- 🤖 Machine Learning
+🐍 Advanced Python
 
-- 🐍 Python
+🤖 Machine Learning
 
-- 📊 Data Analytics
+🔥 Deep Learning
 
-- 🔥 Deep Learning
+✨ Generative AI
 
-- ✨ Generative AI
+📊 Data Analytics
 
-- 🌐 Git & GitHub
+🗄 SQL
+
+☁ Git & GitHub
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lakshmi25">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:anitha11200525@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lakshmi25N">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://x.com/LakshmiN2505">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
 
 ---
 
 # 💻 Tech Stack
 
-### Programming Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,vscode,figma,netlify,vercel"/>
 
 </p>
 
-### AI / Data Science
+---
 
-<p>
+# 🤖 AI & Machine Learning Skills
+
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 </p>
 
-### Tools
+✔ Machine Learning
 
-<p>
+✔ Deep Learning
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+✔ Data Analysis
 
-</p>
+✔ Pandas
+
+✔ NumPy
+
+✔ Matplotlib
+
+✔ Scikit-Learn
+
+✔ SQL
+
+✔ Jupyter Notebook
+
+✔ Generative AI
 
 ---
 
 # 🚀 Featured Projects
 
-🩺 AI Pneumonia Detection
+🩺 AI-based Pneumonia Detection
 
-📜 Fake Certificate Detection using AI
+📜 Fake Certificate Detection
 
 📊 Netflix Data Analysis
 
-🌐 Personal Portfolio Website
+🌐 Portfolio Website
 
-🐍 Python Automation Projects
+🐍 Python Automation
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -116,7 +154,7 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -130,13 +168,23 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshmi25N&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Lakshmi25N&theme=radical&no-frame=true&margin-w=8"/>
 
 </p>
 
 ---
 
-# 🧑‍💻 Coding Profiles
+# 📊 GitHub Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshmi25N&theme=github_dark"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
 
 <p align="center">
 
@@ -156,35 +204,21 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 2026 Goals
 
-<p align="center">
+✅ Master Data Structures & Algorithms
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+✅ Build AI & ML Projects
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+✅ Publish Research Papers
 
-</p>
+✅ Contribute to Open Source
+
+✅ Crack Product-Based Placements
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions later to make this animation work.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Lakshmi25N/Lakshmi25N/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 💡 Quote
+# ✍ Random Dev Quote
 
 <p align="center">
 
@@ -194,14 +228,32 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 
 ---
 
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions for this.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Lakshmi25N/Lakshmi25N/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</p>
+
+<h2 align="center">
+
+✨ Thanks for Visiting My Profile ✨
+
+</h2>
+
 <h3 align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</h3>
-
-<h4 align="center">
 
 💙 Code • Learn • Build • Repeat 💙
 
-</h4>
+</h3>
