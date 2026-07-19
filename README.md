@@ -5,6 +5,10 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
 </h3>
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Welcome+to+My+GitHub!" />
+</p>
+
+<p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="450"/>
 </p>
 
