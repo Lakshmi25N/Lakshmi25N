@@ -49,9 +49,6 @@ Computer Science Engineering Student | AI & Machine Learning Enthusiast | Aspiri
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshmi25N&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lakshmi25N&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
